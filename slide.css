@@ -1,0 +1,29 @@
+.sl-centered{
+	margin: 0 auto;
+	height: max-content;
+	width: max-content;
+}
+.sl-vertical-center {
+  width: 100%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.sl-bottom-center{
+  margin: 0;
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  -ms-transform: translate(-50%);
+  transform: translate(-50%);
+	
+}
+
+.sl-width{
+	width: 100%;
+}
+.sl-height{
+	height: 100%;
+}
